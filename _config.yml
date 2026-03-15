@@ -1,0 +1,12 @@
+title: Ali Egal
+description: Software engineer interested in distributed systems, networking, and large-scale infrastructure.
+url: ""
+baseurl: "/personal-website"
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
