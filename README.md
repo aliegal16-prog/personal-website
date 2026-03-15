@@ -2,7 +2,7 @@
 
 ## Access
 
-Website: **[ali-egal.com](https://ali-egal.com)**
+Website: **[aliegal2026.com](https://aliegal2026.com)**
 
 Source: [github.com/aliegal16-prog/personal-website](https://github.com/aliegal16-prog/personal-website)
 
